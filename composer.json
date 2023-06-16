@@ -1,0 +1,17 @@
+{
+  "name": "shishima/user-service",
+  "autoload": {
+    "psr-4": {
+      "Shishima\\UserService\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Phuoc Nguyen",
+      "email": "shishima21@gmail.com"
+    }
+  ],
+  "require": {
+    "laravel/framework": "^7.30"
+  }
+}
